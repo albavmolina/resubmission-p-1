@@ -1,28 +1,26 @@
-# Vacationly 
+Vacationly is a tool that helps companies that are expanding overseas get accustomed/learn the different local holidays happening in that particular country. This is helpful to HR teams as it helps them account for when their future staff will have pff and they teams can plan accordingly because of it.
 
-## connects to https://holidays.abstractapi.com 
-
-## As remote work continues and companies are growing globally this is a tool a that will help not just HR professionals but employees in general in terms of collaboration as it allows you to see holidays that are happening on any given day
-
-
-# Technology USED
-## HTML 
-## CSS
-## JavaScript
-## jQuery
-## Holidays API 
-
-// screenshots
+Technologies Used
+HTML5
+CSS3
+JavaScript
+jQuery
+Google Fonts
+Countries API
 
 
-### Getting Started
+Here is a link to the API documentation: https://app.abstractapi.com/api/holidays/documentation
 
- ### link to deployed???? 
 
-# Future Enhancements
 
-## Add a search bar that allows to search the entire website instead of scrolling through options
+Click here to see the deployed project: https://adoring-benz-6e7461.netlify.app/
 
-## Be able to search through country name not just country code
 
-## The ability to save and favorite locations
+
+
+Future Enhancements
+1. Include attack and defence stats for each country
+2. Add functionality that allows to search for enemies that provide specific drops
+3. Include an interactive map that allows to search the database by specific locations and areas.
+
+Author: https://www.linkedin.com/in/albamolina/

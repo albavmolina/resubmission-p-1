@@ -12,9 +12,9 @@
 #### ⋅⋅* Google Fonts
 #### ⋅⋅* Countries API
 
-####  (https://app.abstractapi.com/api/holidays/documentation Holidays API Documentation )
+####  (https://app.abstractapi.com/api/holidays/documentation Holidays API Documentation)
 
-#### (https://adoring-benz-6e7461.netlify.app/) Vacationly Deployed Link)
+#### (https://adoring-benz-6e7461.netlify.app/ Vacationly Deployed Link)
 
 
 

@@ -1,26 +1,29 @@
-Vacationly is a tool that helps companies that are expanding overseas get accustomed/learn the different local holidays happening in that particular country. This is helpful to HR teams as it helps them account for when their future staff will have pff and they teams can plan accordingly because of it.
+# Vacationaly.io
 
-Technologies Used
-HTML5
-CSS3
-JavaScript
-jQuery
-Google Fonts
-Countries API
+#### Vacationly is a tool that helps companies that are expanding overseas learn the different local holidays happening in that particular country they are expanding into. 
+
+#### This is helpful to HR teams as it helps them account for when their future staff will have off and their teams can plan accordingly because of this data.
+
+### Technologies Used
+#### ⋅⋅* HTML5
+#### ⋅⋅* CSS3
+#### ⋅⋅* JavaScript
+#### ⋅⋅* jQuery
+#### ⋅⋅* Google Fonts
+#### ⋅⋅* Countries API
+
+#### [This is an inline-style link with title] (https://app.abstractapi.com/api/holidays/documentation Holidays API Documentation )
+
+#### [This is an inline-style link with title] (https://adoring-benz-6e7461.netlify.app/) Vacationly Deployed Link)
 
 
-Here is a link to the API documentation: https://app.abstractapi.com/api/holidays/documentation
 
+### Future Enhancements
 
+#### 1. Include attack and defence stats for each country
+#### 2. Add functionality that allows to search for enemies that provide specific drops
+#### 3. Include an interactive map that allows to search the database by specific locations and areas.
 
-Click here to see the deployed project: https://adoring-benz-6e7461.netlify.app/
+### About the Author
 
-
-
-
-Future Enhancements
-1. Include attack and defence stats for each country
-2. Add functionality that allows to search for enemies that provide specific drops
-3. Include an interactive map that allows to search the database by specific locations and areas.
-
-Author: https://www.linkedin.com/in/albamolina/
+##### [This is an inline-style link to the author] (https://www.linkedin.com/in/albamolina/ Author LinkedIn Profile)

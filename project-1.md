@@ -4,7 +4,7 @@
 
 #### This is helpful to HR teams as it helps them account for when their future staff will have off and their teams can plan accordingly because of this data.
 
-### Technologies Used
+## Technologies Used
 #### ⋅⋅* HTML5
 #### ⋅⋅* CSS3
 #### ⋅⋅* JavaScript
@@ -18,12 +18,12 @@
 
 
 
-### Future Enhancements
+## Future Enhancements
 
 #### 1. Include attack and defence stats for each country
 #### 2. Add functionality that allows to search for enemies that provide specific drops
 #### 3. Include an interactive map that allows to search the database by specific locations and areas.
 
-### About the Author
+## About the Author
 
 ##### [This is an inline-style link to the author] (https://www.linkedin.com/in/albamolina/ Author LinkedIn Profile)

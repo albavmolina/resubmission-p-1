@@ -16,6 +16,8 @@
 
 #### (https://adoring-benz-6e7461.netlify.app/ Vacationly Deployed Link)
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/v0keZPr" data-context="false" ><a href="//imgur.com/a/v0keZPr"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 
 ## Future Enhancements
